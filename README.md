@@ -1,4 +1,4 @@
-# injectr #
+# injectr # [![Build Status](https://travis-ci.org/nathanmacinnes/injectr.svg?branch=master)](https://travis-ci.org/nathanmacinnes/injectr)
 
 _Finally, a solution to node.js dependency injection_
 
